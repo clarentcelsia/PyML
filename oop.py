@@ -30,7 +30,7 @@ class Mammal(Animal):
         print('%s has 3 kids: %s %s %s' %(self.name, kids[0], kids[1], kids[2]))
 
     def printMammal(self):
-        print('this is mammal: %s %s %s' %(self.skin, self.gender, self.name))
+        print(f'this is mammal: {self.skin}, {self.gender}, {self.name}')
 
 #JSON
     #dumps() : convert python to json.

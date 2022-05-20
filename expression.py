@@ -41,6 +41,12 @@ print(c)
 
 
 #COLLECTION & OUTPUT
+#nb: 
+    #List [x, y, z]: Mutable, duplicatable, heterogeneous, ordered
+    #Tuple (x, y, z):  Immutable, duplicatable, heterogeneous, ordered
+    #Set {x, y, z}: Mutable, unordered, unduplicatable, no indices
+    #Frozenset {x,y,z}: Immutable, unordered, unduplicatable, no indices
+    #Dict {map(k, v)}: key is unduplicatable
 animal = ['butterfly', 'dragon', 'fish']
 a = animal[0]
 b = animal[1]
