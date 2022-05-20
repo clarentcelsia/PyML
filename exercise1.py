@@ -106,7 +106,33 @@ for i in range(row, 0, -1):
     for j2 in range(col, i-1, -1):
       print("*", end=" ")
     print()
+    
+#    *
+#  * * *
+#* * * * *
+row = 3
+col = 2*row-1 #Un = a + (n-1)b
+a_sp = col - 1
 
+for i in range(1, row+1, 1): 
+    for j in range(0, a_sp-2*i+2, 1):
+      print(" ", end="")
+    for j in range(0, 2*i-1, 1):
+      print("*", end=" ")
+    print()
+
+#7. Sum only odd number 
+q = input('input length of item: ')
+items = []
+for i in range(int(q)):
+  item = input()
+  items.append(int(item))
+
+saved = 0
+for x in items:
+  if x % 2 == 1:
+    saved = saved + x
+print(saved)
    
         
         
