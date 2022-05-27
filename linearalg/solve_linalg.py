@@ -59,3 +59,14 @@ a = [[1, 3, 5], [7, 12, 21], [5, 18, 3]]
 b = [13, 123, 51]
 
 np.linalg.solve(a, b)
+
+#3. Find cofactor of the matrix
+m1 = np.array([[1,2,2],[2,3,2],[1,0,2]])
+
+def adj(n):
+  return np.linalg.det(n) * np.linalg.inv(n)
+
+#cofactor
+cof_m1 = adj(m1)/(np.linalg.det(m1))
+
+

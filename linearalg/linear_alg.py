@@ -52,3 +52,27 @@ print('(r22,r25)-(r32,r35): %s' %(reshape[1:, 1::3]))
     # ::n -> extended slices
     # as its name, it only takes the index of the element with n sequence/step.
     # i.e '0,1,2,3,4' ::3 -> element with index 0,3,6,9,..
+
+
+u = np.array([1,2,3])
+v = np.array([2,1,2])
+
+#VECTOR PROJECTION
+#https://www.omnicalculator.com/math/vector-projection#:~:text=Here%20is%20the%20vector%20projection,also%20called%20the%20scalar%20product.
+#p = (a·b / b·b) * b
+#finding norm of the vector v
+v_norm = np.sqrt(sum(v**2))
+proj_u_on_V = (np.dot(u,v)/v_norm**2)*v
+print('projection of vector u on vector v is: ', proj_u_on_V)
+
+#BASIS
+#https://www.geeksforgeeks.org/basis-vectors-in-linear-algebra-ml/
+vec = [3,4]
+#standard
+#w = bobot
+w1 = [-2,4]
+w2 = [2,1]
+#New basis
+new_vec = np.linalg.inv(np.array([w2,w1])).dot(vec)
+print(new_vec)
+
