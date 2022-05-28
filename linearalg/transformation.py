@@ -5,7 +5,7 @@ Created on Fri May 27 23:00:03 2022
 @author: Allen
 """
 
-# TRANSFORMATION MATRIX
+# MATRIX TRANSFORMATION
     # A matrix that transforms one vector into another vector.
     # Rotation, Translation, Reflection, Shearing, Scaling
 
