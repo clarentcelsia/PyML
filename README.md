@@ -1,9 +1,14 @@
+# Model
+
+- [Linear Algebra](#linear-algebra)
+- [Linear Regression](#linear-regression)
+
 Linear Algebra
 ---------------
-![triangle](https://user-images.githubusercontent.com/66846357/171807538-b4449070-55cc-41b4-96da-d077d156a5bf.png)
-![reflection](https://user-images.githubusercontent.com/66846357/171807534-afedf3a3-400e-4c27-97b7-af64ad466c89.png)
+<img src="https://user-images.githubusercontent.com/66846357/171807538-b4449070-55cc-41b4-96da-d077d156a5bf.png" alt="linalg" width=220/>
+<img src="https://user-images.githubusercontent.com/66846357/171807534-afedf3a3-400e-4c27-97b7-af64ad466c89.png" alt="reflection" width=250/>
 
 Linear Regression
 ----------------
-![linregression](https://user-images.githubusercontent.com/66846357/171807388-e0e546de-0afa-4c04-9d00-a25dba33ca43.png)
-![polyregression](https://user-images.githubusercontent.com/66846357/171807394-8de03676-9513-451e-bf18-86e930a3ab86.png)
+[<img src = "https://user-images.githubusercontent.com/66846357/171813767-b0dbce22-e4d9-4833-ab57-84a19a9b4b8b.png" alt="linregression" width=250 label="sds"/>
+<img src="https://user-images.githubusercontent.com/66846357/171813772-878b041f-504d-4dd5-ba2f-1c57440ff251.png" alt="polygression" width=250/>]
