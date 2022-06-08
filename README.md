@@ -2,6 +2,7 @@
 
 - [Linear Algebra](#linear-algebra)
 - [Linear Regression](#linear-regression)
+- [Deep Learning](https://github.com/clarentcelsia/PyML/tree/master/deeplearning)
 
 Linear Algebra
 ---------------
