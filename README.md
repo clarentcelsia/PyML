@@ -3,6 +3,7 @@
 - [Linear Algebra](#linear-algebra)
 - [Linear Regression](#linear-regression)
 - [Deep Learning](https://github.com/clarentcelsia/PyML/tree/master/deeplearning)
+- [Natural Language Processing](https://github.com/clarentcelsia/PyML/tree/master/nlp)
 
 Linear Algebra
 ---------------
