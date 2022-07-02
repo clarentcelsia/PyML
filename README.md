@@ -4,6 +4,7 @@
 - [Linear Regression](#linear-regression)
 - [Deep Learning](https://github.com/clarentcelsia/PyML/tree/master/deeplearning)
 - [Natural Language Processing](https://github.com/clarentcelsia/PyML/tree/master/nlp)
+- [Time Series (Forecasting)](https://github.com/clarentcelsia/PyML/tree/master/forecasting)
 
 Linear Algebra
 ---------------
@@ -14,3 +15,7 @@ Linear Regression
 ----------------
 [<img src = "https://user-images.githubusercontent.com/66846357/171813767-b0dbce22-e4d9-4833-ab57-84a19a9b4b8b.png" alt="linregression" width=250 label="sds"/>
 <img src="https://user-images.githubusercontent.com/66846357/171813772-878b041f-504d-4dd5-ba2f-1c57440ff251.png" alt="polygression" width=250/>]
+
+Time Series
+-----------
+<img src="https://user-images.githubusercontent.com/66846357/176993700-40fdbdca-005a-48fc-af4f-d91e941522fc.png" width=350>
