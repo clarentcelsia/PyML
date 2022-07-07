@@ -18,4 +18,4 @@ Linear Regression
 
 Time Series
 -----------
-<img src="https://user-images.githubusercontent.com/66846357/176993700-40fdbdca-005a-48fc-af4f-d91e941522fc.png" width=350>
+<img src="https://user-images.githubusercontent.com/66846357/176993700-40fdbdca-005a-48fc-af4f-d91e941522fc.png" width=250>
