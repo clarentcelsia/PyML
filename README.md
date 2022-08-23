@@ -23,5 +23,10 @@
 <img src="https://user-images.githubusercontent.com/66846357/176993700-40fdbdca-005a-48fc-af4f-d91e941522fc.png" width=250>
 
 ### Tensorflow
-- Predict horse or human
-<img src="https://user-images.githubusercontent.com/66846357/185780083-dab7ae0f-453e-4f33-9555-561434d5c870.png" width=150dp alt="img"/>
+- CNN
+
+  Predict and classifying images. Predict horse or human (fig. 1), Classify sign language (fig. 2)
+
+<img src="https://user-images.githubusercontent.com/66846357/185780083-dab7ae0f-453e-4f33-9555-561434d5c870.png" width=200 alt="img"/>,
+<img src="https://user-images.githubusercontent.com/66846357/185827601-23da5fcf-a84c-47e8-b7a0-d05ac4a2465c.png" width=300 alt="sign"/>
+
