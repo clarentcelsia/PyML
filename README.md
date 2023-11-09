@@ -1,8 +1,8 @@
 # Model
 
 ### Table of Contents
-- [Linear Algebra](#linear-algebra)
-- [Linear Regression](#linear-regression)
+- [Linear Algebra](https://github.com/clarentcelsia/PyML/tree/master/linearalg )
+- [Linear Regression](https://github.com/clarentcelsia/PyML/tree/master/linregression )
 - [Deep Learning](https://github.com/clarentcelsia/PyML/tree/master/deeplearning)
 - [Natural Language Processing](https://github.com/clarentcelsia/PyML/tree/master/nlp)
 - [Time Series (Forecasting)](https://github.com/clarentcelsia/PyML/tree/master/forecasting)
